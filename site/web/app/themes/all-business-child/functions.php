@@ -67,7 +67,7 @@ public function widget( $args, $instance ) {
 				New York, NY 10016
 			</li>
 			<li class="phone">212.686.9700</li>	
-			<li class="mail"><a href="mailto:">Email Us</a></li>
+			<li class="mail"><a href="/contact">Email Us</a></li>
 		</ul>	
 		<?php gravity_form( 3, false, false, false, '', false ); ?>
 	<?php echo $args['after_widget'];
