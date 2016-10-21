@@ -2,7 +2,7 @@
 # List each machine only once per [group], even if it will host multiple sites.
 
 [staging]
-45.55.131.100
+104.236.205.42
 
 [web]
-45.55.131.100
+104.236.205.42
