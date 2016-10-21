@@ -60,7 +60,7 @@ public function widget( $args, $instance ) {
 	echo $args['before_widget']; ?>
 	
 		<p><img src="/app/uploads/2016/10/logo-alt.png"/></p>
-		<p><img src="/app/uploads/2016/10/oaklins.png"/></p>
+		<p><img src="/app/uploads/2016/10/oaklins-blue.png"/></p>
 		<ul>
 			<li class="address">
 				Main Office 475 Park Avenue South, 22nd Floor<br />

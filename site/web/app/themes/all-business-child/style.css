@@ -100,10 +100,6 @@ font-family: 'CooperHewitt-Thin' !important;
 	
 }
 
-#footer {
-	
-}
-
 #bottom li {
 	margin: 0 0 8px; 
 	padding: 0;
@@ -120,11 +116,29 @@ font-family: 'CooperHewitt-Thin' !important;
 #bottom li.address,
 #bottom li.phone,
 #bottom li.mail {
-	
+	margin-left: 30px;
+	position: relative;
 }
-#bottom li.address a:before {
-	content: '';
-	font-family: FontAwesome;
+#bottom li.address:before,
+#bottom li.phone:before,
+#bottom li.mail:before {
+	font-family: 'FontAwesome';
+	position: absolute;
+	top: 1px;
+	left: -25px;
+	font-size: 16px;
+}
+#bottom li.address:before {
+	content: '\f041' !important;
+}
+#bottom li.phone:before {
+	content: '\f10b' !important;
+}
+#bottom li.mail:before {
+	content: '\f0e0' !important;
+	font-size: 10px;
+	left: -21.5px;
+	top: 4px;
 	
 }
 
@@ -136,7 +150,7 @@ font-family: 'CooperHewitt-Thin' !important;
 #bottom #gform_wrapper_3 .gform_heading {
 	margin: 0 0 10px;
 }
-#bottom #gform_wrapper_3 .gform_heading h3 {
+#bottom h3 {
 	font-family: 'Open Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif !important;
 	font-size: 16px;
 	line-height: 20px;
@@ -146,8 +160,17 @@ font-family: 'CooperHewitt-Thin' !important;
 }
 #bottom .gform_wrapper input[type="text"] {
 	background: transparent;
-	border-color: #fff;
+	
 	color: #fff;
+}
+#bottom .gform_wrapper textarea {
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+	height: 38px !important;
+	color: #fff !important;
+}
+#bottom .gform_wrapper textarea:focus {
+	height: 76px !important;
 }
 #bottom #gform_wrapper_3 .gform_body {
 	width: 72%;
@@ -172,6 +195,23 @@ font-family: 'CooperHewitt-Thin' !important;
 #bottom #gform_wrapper_3 .gform_footer input[type="submit"]:hover {
 	
 }
+
+#bottom .cmsmasters_color_scheme_bottom input:not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]) {
+	display: none !important;
+}
+
+#footer .footer_inner {
+	border-color: #fff !important;
+	padding: 20px 0 30px !important;
+}
+#footer .footer_inner .footer_custom_html {
+	text-align: center;
+}
+#footer a {
+	color: #fff;
+	text-decoration: underline;
+}
+
 
 .cmsmasters_counters .cmsmasters_counter_wrap .cmsmasters_counter {
 	background: transparent !important;
