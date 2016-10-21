@@ -1,0 +1,61 @@
+/*
+Theme Name: DeSilvia Phillip
+Theme URI: http://cmsmasters.net/all-business-child/
+Author: cmsmasters
+Author URI: http://cmsmasters.net/
+Description: All Business Child Theme
+Template: all-business
+Version: 1.0.0
+License:
+License URI:
+Text Domain: all-business-child
+Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+*/
+
+@font-face {
+  font-family: 'CooperHewitt-Thin';
+  src: url('assets/fonts/CooperHewitt-Thin.eot'); /* IE9 Compat Modes */
+  src: url('assets/fonts/CooperHewitt-Thin.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('assets/fonts/CooperHewitt-Thin.woff2') format('woff2'), /* Super Modern Browsers */
+       url('assets/fonts/CooperHewitt-Thin.woff') format('woff'), /* Pretty Modern Browsers */
+       url('assets/fonts/CooperHewitt-Thin.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('assets/fonts/CooperHewitt-Thin.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+.cmsmasters_heading_wrap {
+	margin-bottom: 15px !important;
+}
+.cmsmasters_heading_wrap h1 {
+/* 	font-family: 'CooperHewitt-Thin';	 */
+}
+h1, h2, h3, h4, h5, h6 {
+font-family: 'CooperHewitt-Thin' !important;		
+}
+
+.cmsmasters_counters .cmsmasters_counter_wrap .cmsmasters_counter {
+	background: transparent !important;
+}
+.cmsmasters_counters .cmsmasters_counter_wrap .cmsmasters_counter .cmsmasters_counter_inner:before {
+	color: #fff !important;
+}
+.cmsmasters_counters .cmsmasters_counter_wrap .cmsmasters_counter.counter_has_icon .cmsmasters_counter_inner .cmsmasters_counter_counter_wrap {
+	color: #fff !important;
+}
+.cmsmasters_counter_subtitle {
+	color: #fff !important;
+}
+
+.cmsmasters_single_event_img {
+	display: none !important;
+}
+
+body.events-single .headline {
+	display: none !important;
+}
+.tribe-events-event-meta {
+	display: none !important;
+}
+.tribe-events-single-event-description .cmsmasters_row_inner {
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
