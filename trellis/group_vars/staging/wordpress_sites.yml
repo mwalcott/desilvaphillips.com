@@ -19,6 +19,6 @@ wordpress_sites:
       provider: letsencrypt
     env:
       wp_home: https://desilvaphillips.mikewalcott.com
-      wp_siteurl: https://desilvaphillips.mikewalcott.com
+      wp_siteurl: https://desilvaphillips.mikewalcott.com/wp
     cache:
       enabled: false
