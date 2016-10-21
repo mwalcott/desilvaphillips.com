@@ -68,9 +68,9 @@ font-family: 'CooperHewitt-Thin' !important;
 	background: #1d4488;
 	color: #fff;
 	padding: 7px 20px 6px !important;
-	-webkit-border-radius: 0px;
-	-moz-border-radius: 0px;
-	border-radius: 0px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
 	font-size: 12px;
 	line-height: 16px;
 }
@@ -101,6 +101,75 @@ font-family: 'CooperHewitt-Thin' !important;
 }
 
 #footer {
+	
+}
+
+#bottom li {
+	margin: 0 0 8px; 
+	padding: 0;
+}
+#bottom li a {
+	background: transparent;
+	border: none;
+	padding: 0;
+	color: #fff !important;
+}
+#bottom li a:before {
+	display: none !important;
+}
+#bottom li.address,
+#bottom li.phone,
+#bottom li.mail {
+	
+}
+#bottom li.address a:before {
+	content: '';
+	font-family: FontAwesome;
+	
+}
+
+#bottom #gform_wrapper_3 {
+	background: #2059bb;
+	padding: 20px 20px;
+	margin-right: 10%;
+}
+#bottom #gform_wrapper_3 .gform_heading {
+	margin: 0 0 10px;
+}
+#bottom #gform_wrapper_3 .gform_heading h3 {
+	font-family: 'Open Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif !important;
+	font-size: 16px;
+	line-height: 20px;
+	font-weight: 600;
+	margin: 0;
+	padding: 0;
+}
+#bottom .gform_wrapper input[type="text"] {
+	background: transparent;
+	border-color: #fff;
+	color: #fff;
+}
+#bottom #gform_wrapper_3 .gform_body {
+	width: 72%;
+	float: left;
+}
+#bottom #gform_wrapper_3 .gform_footer {
+	float: right;
+	width: 24%;
+	clear: none;
+	margin: 15px 0 0;
+	padding: 0;
+}
+#bottom #gform_wrapper_3 .gform_footer input[type="submit"] {
+	padding: 0;
+	line-height: 30px;
+	display: block;
+	width: 100%;
+	background: #1d4488;
+	color: #fff;
+	font-weight: 600;
+}
+#bottom #gform_wrapper_3 .gform_footer input[type="submit"]:hover {
 	
 }
 
