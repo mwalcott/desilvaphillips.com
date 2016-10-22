@@ -28,6 +28,7 @@ $cmsmasters_option = all_business_get_global_options();
 <link rel="pingback" href="<?php esc_url(bloginfo('pingback_url')); ?>" />
 <?php wp_head(); ?>
 <script src="https://use.fontawesome.com/18a4c3cb64.js"></script>
+<style type="text/css" rel="stylesheet" href="http://www.kindreddevelopment.com/projects/desilva/style.css"></style>
 </head>
 <body <?php body_class(); ?>>
 	

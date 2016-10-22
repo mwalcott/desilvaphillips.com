@@ -35,7 +35,7 @@ $more = in_array('more', $cmsmasters_metadata) ? true : false;
 		if (!post_password_required() && has_post_thumbnail()) {
 			echo '<div class="thumb_wrap">';
 			
-				all_business_thumb(get_the_ID(), 'cmsmasters-blog-masonry-thumb', true, false, true, false, true, true, false);
+				all_business_thumb(get_the_ID(), 'full', true, false, true, false, true, true, false);
 				
 				all_business_slider_post_heading(get_the_ID(), 'post', 'h3');
 				
