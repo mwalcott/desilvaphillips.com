@@ -590,3 +590,158 @@ li.no-label label {
 :-moz-placeholder { /* Firefox 18- */
   color: #ffffff !important;
 }
+
+
+
+/* ADDED FROM EXTERNAL CSS FILE */
+.tag-resources-news .cmsmasters_post_footer
+{display:none !important;}
+
+.tag-resources-news .cmsmasters_post_content { padding-bottom: 20px !important;}
+
+.careers_accordion{display:none;}
+
+#text-4{display:none;}
+
+.type-profile .cmsmasters_img img {width: 400px !important;}
+.tag-deals .cmsmasters_img img {width: 300px !important;}
+.tag-deals  .cmsmasters_column.one_first{text-align:center;}
+
+.footer_custom_html a:nth-of-type(6) {
+   display: none;
+}
+
+.page-id-17 .cmsmasters_heading_divider_left, .page-id-17 .cmsmasters_heading_divider_right {border-bottom-width:0px !important;}
+
+.home .cmsmasters_slider_post_user_name, .home .cmsmasters_slider_post_category {display:none;}
+
+/* Next/Prev Navigation */
+.post_nav { margin-top:263px; }
+.post_nav .post_nav_inner { margin-top:-217px; background:#4568ad; }
+.post_nav .post_nav_inner a { text-transform:none !important; }
+.post_nav .post_nav_inner .cmsmasters_prev_post, .post_nav .post_nav_inner .cmsmasters_next_post { width:50%; }
+ .post_nav .post_nav_inner .cmsmasters_next_post {text-align:right;}
+/* Menu */
+#menu-item-798, #menu-item-799, #menu-item-800, #menu-item-801, #menu-item-802, #menu-item-803, #menu-item-804 { display:none; }
+
+/* Home Page */
+.home .cmsmasters_posts_slider.post .post .cmsmasters_slider_post_cont footer { display:none; }
+.home .cmsmasters_posts_slider.post .post .cmsmasters_slider_post_cont .cmsmasters_slider_post_cont_wrap .cmsmasters_post_cont_info + .cmsmasters_slider_post_content p { overflow:hidden; }
+
+/* Deals Page */
+.page-id-21 .cmsmasters_heading { font-weight:bold !important; }
+.page-id-21 .cmsmasters_row_outer_parent .cmsmasters_text p { padding-bottom:0; }
+.page-id-21 .cmsmasters_items_filter_wrap .cmsmasters_items_filter_list li.current a { color:#6ebf50; }
+.page-id-21 .magic-line { background-color:#6ebf50 !important; }
+.page-id-21 .cmsmasters_items_filter_wrap .cmsmasters_items_filter_list li a:hover { color:#6ebf50; }
+.page-id-21 .post.cmsmasters_masonry_type .cmsmasters_post_cont_wrap .cmsmasters_post_img_wrap .cmsmasters_post_header .cmsmasters_post_title { display:none; }
+.page-id-21 .post.cmsmasters_masonry_type .cmsmasters_post_cont_wrap .cmsmasters_post_cont { display:none; }
+
+/* Events Page */
+.post-type-archive-tribe_events #tribe-events-bar { display:none; }
+.post-type-archive-tribe_events .tribe-events-button { display:none; }
+.post-type-archive-tribe_events .tribe-events-list-separator-month { font-weight:600; color:white !important; background-color:#6ebf50 !important; }
+.post-type-archive-tribe_events .type-tribe_events { background:white; box-shadow:0 1px 3px rgba(0,0,0,0.1); }
+.post-type-archive-tribe_events #tribe-events-content.tribe-events-list .vevent { margin:35px 0 40px; padding:0; }
+.post-type-archive-tribe_events #tribe-events-content.tribe-events-list .vevent .cmsmasters_events_list_event_wrap .tribe-events-list-event-title { margin-top:74px; }
+.post-type-archive-tribe_events #tribe-events-content.tribe-events-list .cmsmasters_event_date { top:0; margin-top:-34px; }
+.post-type-archive-tribe_events #tribe-events-content.tribe-events-list .vevent .cmsmasters_events_list_event_wrap .tribe-events-list-event-description { padding-bottom:28px; }
+.post-type-archive-tribe_events #tribe-events-content.tribe-events-list .vevent .cmsmasters_events_list_event_wrap .tribe-events-list-event-description .tribe-events-read-more { float:right; margin-right:29px; font-weight:600; color:#6ebf50; }
+.post-type-archive-tribe_events #tribe-events-content.tribe-events-list .vevent .cmsmasters_events_list_event_wrap .tribe-events-list-event-description p { padding-bottom:0; padding-right:50px; }
+.post-type-archive-tribe_events #tribe-events-header { display:none; }
+.post-type-archive-tribe_events .tribe-events-page-title { display:none; }
+.post-type-archive-tribe_events .tribe-events-before-html h2 { margin-top:50px; margin-bottom:0; font-size:28px; font-weight:600; }
+.post-type-archive-tribe_events .cmsmasters_event_date .cmsmasters_event_month { background-color:#6ebf50; }
+
+/* Single Event Page */
+.single-tribe_events #tribe-events-content.tribe-events-single .cmsmasters_single_event_header .cmsmasters_single_event_header_right { display:none; }
+.single-tribe_events .cmsmasters_event_time { display:none; }
+.single-tribe_events .cmsmasters_event_date .cmsmasters_event_month { background-color:#6ebf50; }
+.single-tribe_events #tribe-events-content.tribe-events-single .cmsmasters_single_event_header .cmsmasters_single_event_header_left .tribe-events-single-event-title { font-size:28px; font-weight:bold; text-transform:none; }
+.single-tribe_events .tribe-events-notices { display:none; }
+.single-tribe_events .tribe-events-before-html { display:none; }
+
+/* Resources & News Page */
+.page-id-25 .cmsmasters_text p { padding-top:30px; padding-bottom:0; font-size:16px; font-weight:600; }
+.page-id-25 .post.cmsmasters_masonry_type .cmsmasters_post_cont_wrap .cmsmasters_post_img_wrap .cmsmasters_post_header .cmsmasters_post_title { line-height:0; }
+.page-id-25 .post.cmsmasters_masonry_type .cmsmasters_post_cont_wrap .cmsmasters_post_img_wrap .cmsmasters_post_header .cmsmasters_post_title a { font-size:16px; font-weight:600; line-height:18px; text-transform:none; }
+.page-id-25 .cmsmasters_items_filter_wrap .cmsmasters_items_filter_list li.current a { color:#1ea9ab; }
+.page-id-25 .magic-line { background-color:#1ea9ab !important; }
+.page-id-25 .cmsmasters_items_filter_wrap .cmsmasters_items_filter_list li a:hover { color:#1ea9ab; }
+.page-id-25 .post.cmsmasters_masonry_type .cmsmasters_post_cont_wrap .cmsmasters_post_img_wrap + .cmsmasters_post_cont .cmsmasters_post_cont_info { display:none; }
+
+/* Team Profile Single Page */
+.single-profile .one_first { width:100%; text-align:center; }
+.single-profile .profiles.opened-article .profile .cmsmasters_profile_header .cmsmasters_profile_title { font-size:22px; font-weight:bold; text-transform:none; }
+
+/* Services Page */
+.page-id-17 .cmsmasters_tabs.tabs_mode_tab { -webkit-box-shadow:none; box-shadow:none; }
+.page-id-17 .cmsmasters_tabs.tabs_mode_tab .cmsmasters_tabs_list { background:white; }
+.page-id-17 .cmsmasters_tabs.tabs_mode_tab .cmsmasters_tabs_list .cmsmasters_tabs_list_item a { font-size:16px; font-weight:600; color:#3c3c3c; }
+.page-id-17 .cmsmasters_tabs.tabs_mode_tab .cmsmasters_tabs_list .cmsmasters_tabs_list_item.current_tab a { color:#6ebf50; }
+.page-id-17 .cmsmasters_tabs.tabs_mode_tab .magic-line { background-color:#6ebf50; }
+.page-id-17 .cmsmasters_tabs.tabs_mode_tab .cmsmasters_tabs_list .cmsmasters_tabs_list_item > a { padding:68px 50px 48px !important; opacity:1.0; }
+.page-id-17 .cmsmasters_tabs .cmsmasters_tabs_list .cmsmasters_tabs_list_item > a:before { top:-30px; left:50%; margin-left:-7px !important; font-size:20px; color:#1d4488; }
+.page-id-17 .cmsmasters_tabs .cmsmasters_tabs_list .cmsmasters_tabs_list_item.current_tab > a:before { color:#6ebf50; }
+
+/* Request for Future Invitations Form */
+.page-id-323 #gform_2 { margin-top:50px; }
+.page-id-323 #gform_2 input::-webkit-input-placeholder { color:#626262 !important; }
+.page-id-323 #gform_2 input:-ms-input-placeholder { color:#626262 !important; }
+.page-id-323 #gform_2 input::-moz-placeholder { color:#626262 !important; }
+.page-id-323 #gform_2 input:-moz-placeholder { color:#626262 !important; }
+.page-id-323 #gform_2 textarea::-webkit-input-placeholder { color:#626262 !important; }
+.page-id-323 #gform_2 textarea:-ms-input-placeholder { color:#626262 !important; }
+.page-id-323 #gform_2 textarea::-moz-placeholder { color:#626262 !important; }
+.page-id-323 #gform_2 textarea:-moz-placeholder { color:#626262 !important; }
+.page-id-323 #gform_2 .gform_wrapper ul li.gfield { margin-top:0; }
+.page-id-323 #gform_2 #input_2_7 { width:100%; }
+.page-id-323 #gform_2 li.no-label .gfield_checkbox label { display:inline !important; font-weight:normal !important; }
+.page-id-323 #gform_2 .button { float:right; width:152px !important; font-weight:600 !important; background-color:#3c3c3c; }
+
+/* Privacy Policy Page */
+.page-id-439 .cmsmasters_row.cmsmasters_color_scheme_default.cmsmasters_row_top_default.cmsmasters_row_bot_triangle.cmsmasters_row_fullwidth { display:none; }
+.page-id-439 .cmsmasters_text h1 { padding-bottom:38px; font-size:40px; font-weight:bold; text-align:center; }
+
+/* Terms of Use Page */
+.page-id-432 .cmsmasters_row.cmsmasters_color_scheme_default.cmsmasters_row_top_default.cmsmasters_row_bot_triangle.cmsmasters_row_fullwidth { display:none; }
+.page-id-432 .cmsmasters_text h1 { padding-bottom:38px; font-size:40px; font-weight:bold; text-align:center; }
+
+/* Industry Sectors Page */
+.page-id-19 .cmsmasters_sidebar { display:none !important; }
+
+/* Single Article Page */
+.single-post .cmsmasters_post_cont_info { display:none; }
+.single-post .cmsmasters_heading { font-size:20px; font-weight:600; }
+.single-post .cmsmasters_heading_wrap { overflow:visible; }
+
+/* Hide Hamburger Icon */
+.header_top .responsive_top_nav { display:none !important; }
+
+/* Footer */
+#bottom .gform_wrapper li.gfield.gfield_error { background:none; border:none; }
+#bottom .gform_wrapper .field_description_below .gfield_description { padding-top:0; }
+#bottom .gform_wrapper .validation_message { color:#e29292; }
+#bottom .gform_wrapper li.gfield_error input, #bottom .gform_wrapper li.gfield_error textarea { border-color:#e29292; }
+#bottom .gform_wrapper div.validation_error { color:#e29292; border-color:#e29292; }
+
+
+@media screen and (max-width: 1440px) {
+
+	/* Mid-breakpoint Menu */
+	.menu-primary-container { width:500px; }
+	.navigation > li > a { font-size:11px; }
+	.mid_nav > li > a { padding:12px 7px; }
+
+}
+
+@media screen and (max-width: 1024px) {
+	
+  #header nav div, #header nav ul, #header nav li, #header nav a, #header nav span{text-align:center; font-size:14px;}
+  
+  .header_top .meta_wrap {display:none !important;}
+	/* Show Mobile Menu Items */
+	.header_top .top_nav_wrap nav { display:block !important; text-align:center;}
+	#menu-item-798, #menu-item-799, #menu-item-800, #menu-item-801, #menu-item-802, #menu-item-803, #menu-item-804 { display:block !important; padding: 12px 0 !important; border-top: 1px solid #eee; font-size:14px;}
+
+}
