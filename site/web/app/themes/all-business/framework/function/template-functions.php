@@ -1237,9 +1237,9 @@ function all_business_prev_next_posts() {
 		echo '<aside class="post_nav">' . 
 			'<div class="post_nav_inner">';
 			
-				previous_post_link('<span class="cmsmasters_prev_post">%link<span class="cmsmasters_prev_arrow"><span></span></span><span class="sub">' . esc_html__('previous', 'all-business') . '</span></span>');
+				previous_post_link('<span class="cmsmasters_prev_post">%link<span class="cmsmasters_prev_arrow"><span></span></span><span class="sub">previous</span></span>','%title',TRUE);
 				
-				next_post_link('<span class="cmsmasters_next_post">%link<span class="cmsmasters_next_arrow"><span></span></span><span class="sub">' . esc_html__('next', 'all-business') . '</span></span>');
+				next_post_link('<span class="cmsmasters_next_post">%link<span class="cmsmasters_next_arrow"><span></span></span><span class="sub">next</span></span>','%title',TRUE);
 				
 			echo '</div>' . 
 		'</aside>';

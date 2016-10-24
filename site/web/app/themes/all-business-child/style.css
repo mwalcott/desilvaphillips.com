@@ -749,6 +749,7 @@ li.no-label label {
 */.page-id-21 .cmsmasters_row_top_default{background-color:#f8f8f8 !important;}
 
 .page-id-25 .cmsmasters_row_top_default{background-color:#f8f8f8 !important;}
-li.menu-item.current-menu-ancestor > a .nav_item_wrap {
-  border-bottom: 4px solid #6ebf50;
+
+.current-menu-item .nav_item_wrap {
+  border-bottom: 4px solid #6ebf50 !important;
 }
