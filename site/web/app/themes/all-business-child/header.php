@@ -31,6 +31,7 @@ $cmsmasters_option = all_business_get_global_options();
 <script type='text/javascript' src='<?php echo get_stylesheet_directory_uri(); ?>/scripts.js'></script>
 
 
+<link rel="icon" href="<?php echo get_site_url(); ?>/favicon.ico">
 
 </head>
 <body <?php body_class(); ?>>
