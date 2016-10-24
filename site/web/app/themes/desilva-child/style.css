@@ -753,3 +753,7 @@ li.no-label label {
 .current-menu-item .nav_item_wrap {
   border-bottom: 4px solid #6ebf50 !important;
 }
+
+.current-menu-item .sub-menu .nav_item_wrap {
+  border-bottom: 0px solid #6ebf50 !important;
+}
