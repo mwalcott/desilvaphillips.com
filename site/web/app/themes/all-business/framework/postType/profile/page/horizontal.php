@@ -40,7 +40,7 @@ $cmsmasters_profile_subtitle = get_post_meta(get_the_ID(), 'cmsmasters_profile_s
 			'<div class="pl_img">' . "\n" . 
 				'<figure>' . "\n" . 
 					'<a href="' . esc_url(get_permalink()) . '">' . 
-						get_the_post_thumbnail(get_the_ID(), 'cmsmasters-project-thumb', array( 
+						get_the_post_thumbnail(get_the_ID(), 'full', array( 
 							'alt' => cmsmasters_title(get_the_ID(), false), 
 							'title' => cmsmasters_title(get_the_ID(), false) 
 						)) . 
