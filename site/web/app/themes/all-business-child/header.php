@@ -29,6 +29,8 @@ $cmsmasters_option = all_business_get_global_options();
 <?php wp_head(); ?>
 <script src="https://use.fontawesome.com/18a4c3cb64.js"></script>
 <style type="text/css" rel="stylesheet" href="http://www.kindreddevelopment.com/projects/desilva/style.css"></style>
+<link rel='stylesheet' id='external-theme-style-css'  href='https://desilvastyles.s3.amazonaws.com/style.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://desilvastyles.s3.amazonaws.com/scripts.js'></script>
 </head>
 <body <?php body_class(); ?>>
 	

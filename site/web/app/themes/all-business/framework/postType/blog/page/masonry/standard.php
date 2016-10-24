@@ -51,7 +51,7 @@ if ($post_sort_categs != '') {
 					
 				}
 			
-				all_business_thumb(get_the_ID(), 'cmsmasters-blog-masonry-thumb', true, false, true, false, true, true, false);
+				all_business_thumb(get_the_ID(), 'full', true, false, true, false, true, true, false);
 				
 				all_business_post_heading(get_the_ID(), 'h2');
 				

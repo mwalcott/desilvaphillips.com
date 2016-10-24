@@ -305,14 +305,26 @@ line-height: 30px !important;
 	font-family: 'CooperHewitt-Medium' !important;
 	line-height: 34px;
 }
-#deals-carousel .preloader .full-width {
+
+.cmsmasters_wrap_blog .post.cmsmasters_masonry_type .preloader {
+	height: inherit !important;	
+	padding-bottom: 0 !important
+}
+.cmsmasters_wrap_blog .preloader .full-width {
+	position: static;
+}
+
+#deals-carousel .preloader .full-width,
+.cmsmasters_wrap_blog .preloader .full-width {
 	position: static !important;
+}
+#deals-carousel .cmsmasters_posts_slider.post .post .preloader,
+.cmsmasters_wrap_blog .post.cmsmasters_masonry_type .preloader {
 	height: auto !important;
+	padding-bottom: 0 !important
 }
-#deals-carousel .cmsmasters_posts_slider.post .post .preloader {
-	padding-bottom: 121% !important;
-}
-#deals-carousel .cmsmasters_slider_post_header {
+#deals-carousel .cmsmasters_slider_post_header,
+.cmsmasters_wrap_blog .cmsmasters_post_header {
 	display: none !important;
 }
 .owl-wrapper article .cmsmasters_slider_post_user_name,
