@@ -28,8 +28,10 @@ $cmsmasters_option = all_business_get_global_options();
 <link rel="pingback" href="<?php esc_url(bloginfo('pingback_url')); ?>" />
 <?php wp_head(); ?>
 <script src="https://use.fontawesome.com/18a4c3cb64.js"></script>
-<style type="text/css" rel="stylesheet" href="http://www.kindreddevelopment.com/projects/desilva/style.css"></style>
-<script type='text/javascript' src='https://desilvastyles.s3.amazonaws.com/scripts.js'></script>
+<script type='text/javascript' src='<?php echo get_stylesheet_directory_uri(); ?>/scripts.js'></script>
+
+
+
 </head>
 <body <?php body_class(); ?>>
 	
