@@ -38,6 +38,200 @@ if ($cmsmasters_layout == 'r_sidebar') {
 	echo '<div class="middle_content entry" role="main">' . "\n\t";
 }
 
+echo'
+	</div></div><style type="text/css"> 
+#cmsmasters_row_580ea103ae3d2 { 
+	background-image: url(http://142.4.18.189/~desilva4/wp-content/uploads/2016/10/events.jpg); 
+	background-position: center center; 
+	background-repeat: no-repeat; 
+	background-attachment: scroll; 
+	background-size: cover; 
+} 
+
+#cmsmasters_row_580ea103ae3d2 .cmsmasters_row_outer_parent { 
+	padding-top: 100px; 
+} 
+
+#cmsmasters_row_580ea103ae3d2 .cmsmasters_row_outer_parent { 
+	padding-bottom: 70px; 
+} 
+
+#cmsmasters_row_580ea103ae3d2 .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
+	padding-left:3%; 
+} 
+#cmsmasters_row_580ea103ae3d2 .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
+	padding-right:3%; 
+} 
+ 
+#cmsmasters_heading_580ea103af0dc { 
+	text-align:center; 
+	margin-top:0px; 
+	margin-bottom:20px; 
+} 
+
+#cmsmasters_heading_580ea103af0dc .cmsmasters_heading { 
+	text-align:center; 
+} 
+
+#cmsmasters_heading_580ea103af0dc .cmsmasters_heading, #cmsmasters_heading_580ea103af0dc .cmsmasters_heading a { 
+	font-size:40px; 
+	line-height:46px; 
+	font-weight:bold; 
+	font-style:normal; 
+	color:#ffffff;
+} 
+
+#cmsmasters_heading_580ea103af0dc .cmsmasters_heading_divider { 
+} 
+
+ 
+#cmsmasters_row_580ea103af375 .cmsmasters_row_outer_parent { 
+	padding-top: 50px; 
+} 
+
+#cmsmasters_row_580ea103af375 .cmsmasters_row_outer_parent { 
+	padding-bottom: 50px; 
+} 
+
+ 
+#cmsmasters_row_580ea103b02b0 { 
+	background-color:#1d4488;
+} 
+
+#cmsmasters_row_580ea103b02b0 .cmsmasters_row_outer_parent { 
+	padding-top: 50px; 
+} 
+
+#cmsmasters_row_580ea103b02b0 .cmsmasters_row_outer_parent { 
+	padding-bottom: 50px; 
+} 
+
+ 
+#cmsmasters_row_580ea103b08e0 { 
+	background-image: url(http://142.4.18.189/~desilva4/wp-content/uploads/2016/10/about-counter-bg.jpg); 
+	background-position: center center; 
+	background-repeat: no-repeat; 
+	background-attachment: scroll; 
+	background-size: cover; 
+} 
+
+#cmsmasters_row_580ea103b08e0 .cmsmasters_row_outer_parent { 
+	padding-top: 50px; 
+} 
+
+#cmsmasters_row_580ea103b08e0 .cmsmasters_row_outer_parent { 
+	padding-bottom: 50px; 
+} 
+
+#cmsmasters_row_580ea103b08e0 .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
+	padding-left:0%; 
+} 
+#cmsmasters_row_580ea103b08e0 .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
+	padding-right:0%; 
+} 
+ 
+#cmsmasters_heading_580ea103b11aa { 
+	text-align:center; 
+	margin-top:0px; 
+	margin-bottom:20px; 
+} 
+
+#cmsmasters_heading_580ea103b11aa .cmsmasters_heading { 
+	text-align:center; 
+} 
+
+#cmsmasters_heading_580ea103b11aa .cmsmasters_heading, #cmsmasters_heading_580ea103b11aa .cmsmasters_heading a { 
+	font-weight:normal; 
+	font-style:normal; 
+	color:#ffffff;
+} 
+
+#cmsmasters_heading_580ea103b11aa .cmsmasters_heading_divider { 
+} 
+
+ 
+#cmsmasters_counters_580ea103b132a .cmsmasters_counter.counter_has_icon .cmsmasters_counter_inner, 
+#cmsmasters_counters_580ea103b132a .cmsmasters_counter.counter_has_icon .cmsmasters_counter_inner, #cmsmasters_counters_580ea103b132a .cmsmasters_counter.counter_has_image .cmsmasters_counter_inner { 
+	padding-top:70px; 
+} 
+
+#cmsmasters_counters_580ea103b132a.counters_type_vertical .cmsmasters_counter .cmsmasters_counter_inner:before { 
+	margin-left:-30px; 
+} 
+
+#cmsmasters_counters_580ea103b132a.counters_type_horizontal .cmsmasters_counter .cmsmasters_counter_inner .cmsmasters_counter_counter_wrap { 
+	line-height:60px; 
+} 
+
+#cmsmasters_counters_580ea103b132a .cmsmasters_counter .cmsmasters_counter_inner:before { 
+	font-size:30px; 
+	line-height:60px; 
+	width:60px; 
+	height:60px; 
+	border-width:0px; 
+} 
+
+
+#cmsmasters_counter_580ea103b1677 .cmsmasters_counter_inner:before { 
+} 
+
+
+#cmsmasters_counter_580ea103b188b .cmsmasters_counter_inner:before { 
+} 
+
+
+#cmsmasters_counter_580ea103b1a94 .cmsmasters_counter_inner:before { 
+} 
+
+
+#cmsmasters_counter_580ea103b1c82 .cmsmasters_counter_inner:before { 
+} 
+
+
+#cmsmasters_counter_580ea103b1e84 .cmsmasters_counter_inner:before { 
+} 
+
+ 
+#cmsmasters_row_580ea103b20f3 .cmsmasters_row_outer_parent { 
+	padding-top: 0px; 
+} 
+
+#cmsmasters_row_580ea103b20f3 .cmsmasters_row_outer_parent { 
+	padding-bottom: 50px; 
+} 
+
+ 
+#cmsmasters_row_580ea103b23f5 { 
+	background-color:#ffffff;
+} 
+
+#cmsmasters_row_580ea103b23f5 .cmsmasters_row_outer_parent { 
+	padding-top: 0px; 
+} 
+
+#cmsmasters_row_580ea103b23f5 .cmsmasters_row_outer_parent { 
+	padding-bottom: 50px; 
+} 
+
+</style><div id="cmsmasters_row_580ea103ae3d2" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_triangle cmsmasters_row_fullwidth">
+<div id="page-banner" class="cmsmasters_row_outer_parent">
+<div class="cmsmasters_row_outer">
+<div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
+<div class="cmsmasters_row_margin">
+<div class="cmsmasters_column one_first">
+
+<div id="cmsmasters_heading_580ea103af0dc" class="cmsmasters_heading_wrap cmsmasters_heading_align_center" data-animation="fadeInUp" data-delay="0">
+	<h1 class="cmsmasters_heading">Events</h1>
+</div><div class="cmsmasters_text" data-animation="fadeInUp" data-delay="300">
+<p style="text-align: center;"><strong><span style="color: #f59231;">Let\'s Connect</span></strong></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="middle_content entry" role="main"><div class="cmsmasters_row_inner"><p>&nbsp;</p>';
+
 
 echo '<div id="tribe-events-pg-template" class="clearfix">' . "\n\t";
 	tribe_events_before_html();

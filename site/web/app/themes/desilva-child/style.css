@@ -730,14 +730,16 @@ li.no-label label {
 
 	/* Mid-breakpoint Menu */
 	.menu-primary-container { width:500px; }
-	.navigation > li > a { font-size:11px; }
+	.navigation > li > a { font-size:11px !important; }
 	.mid_nav > li > a { padding:12px 7px; }
 
 }
 
+.cmsmasters_theme_icon_resp_nav{display:none !important;}
+
 @media screen and (max-width: 1024px) {
 	
-  #header nav div, #header nav ul, #header nav li, #header nav a, #header nav span{text-align:center; font-size:14px;}
+  #header nav div, #header nav ul, #header nav li, #header nav a, #header nav span{text-align:center !important; font-size:14px;}
   
   .header_top .meta_wrap {display:none !important;}
 	/* Show Mobile Menu Items */
@@ -757,3 +759,5 @@ li.no-label label {
 .current-menu-item .sub-menu .nav_item_wrap {
   border-bottom: 0px solid #6ebf50 !important;
 }
+
+
